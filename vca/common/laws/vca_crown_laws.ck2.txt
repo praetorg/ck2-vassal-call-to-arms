@@ -1,5 +1,5 @@
 # VASSAL LEVY LAWS
-de_jure_laws = {
+laws = {
 	vassal_levies_law_0 = {
 		group = vassal_levies_law
 		default = yes

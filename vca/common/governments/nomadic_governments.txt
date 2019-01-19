@@ -3,6 +3,7 @@ nomadic_governments = {
 	nomadic_government = {
 		preferred_holdings = { NOMAD }
 		allowed_holdings = { NOMAD }
+		#Allow all since opinion penalties will cause most of the wrong government/religion to reject anyway
 		vassal_call_to_arms = {
 			tribal_government
 			muslim_government

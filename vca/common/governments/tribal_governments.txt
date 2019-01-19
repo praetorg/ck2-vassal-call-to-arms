@@ -18,6 +18,7 @@ tribal_governments = {
 		accepts_liege_governments_culture_and_religion = { 	# Tribals have no opinion penalty towards their liege if of the same culture and religion
 			order_government
 		}
+		#Allow all since opinion penalties will cause most of the wrong government/religion to reject anyway
 		vassal_call_to_arms = {
 			tribal_government
 			muslim_government
