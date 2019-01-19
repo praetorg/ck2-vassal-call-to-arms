@@ -1,0 +1,6 @@
+vassal_levies_law;Vassal Levies Control;;;;;;;;;;;;;x
+vassal_levies_law_desc;Passing the vassal levies control law puts vassal levies directly under control of the sovereign.;;;;;;;;;;;;;x
+vassal_levies_law_0;Autonomy;;;;;;;;;;;;;x
+vassal_levies_law_0_desc;Vassal levies are controlled by their liege.;;;;;;;;;;;;;x
+vassal_levies_law_1;Heteronomy;;;;;;;;;;;;;x
+vassal_levies_law_1_desc;Vassal levies are controlled by their sovereign.;;;;;;;;;;;;;x
