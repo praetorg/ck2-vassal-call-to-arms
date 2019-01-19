@@ -1,6 +1,6 @@
-vassal_levies_law;Vassal Levies Control;;;;;;;;;;;;;x
-vassal_levies_law_desc;Passing the vassal levies control law puts vassal levies directly under control of the sovereign.;;;;;;;;;;;;;x
-vassal_levies_law_0;Autonomy;;;;;;;;;;;;;x
-vassal_levies_law_0_desc;Vassal levies are controlled by their liege.;;;;;;;;;;;;;x
-vassal_levies_law_1;Heteronomy;;;;;;;;;;;;;x
-vassal_levies_law_1_desc;Vassal levies are controlled by their sovereign.;;;;;;;;;;;;;x
+vassal_levies_law;Vassal Levies Control;Contrôle des Prélèvements Vassaux;Kontrolle der Vasallenabgaben;;;;;;;;;;;x
+vassal_levies_law_desc;Passing the vassal levies control law puts vassal levies directly under control of the sovereign.;En adoptant la loi de contrôle des prélèvements de vassaux, les prélèvements de vassaux sont directement sous le contrôle du souverain.;Durch die Verabschiedung des Vasallensteuergesetzes werden Vasallenabgaben direkt dem Souverän unterstellt.;;La aprobación de la ley de control de los gravámenes vasallos pone los gravámenes vasallos directamente bajo el control del soberano.;;;;;;;;;x
+vassal_levies_law_0;Autonomy;Autonomie;Autonomie;;Autonomía;;;;;;;;;x
+vassal_levies_law_0_desc;Vassal levies are controlled by their liege.;Les prélèvements vassaux sont contrôlés par leur liege.;Vasallenabgaben werden von ihrem Lehnsherrn kontrolliert.;;Los gravámenes vasallos son controlados por su liege.;;;;;;;;;x
+vassal_levies_law_1;Heteronomy;Hétéronomie;Heteronomie;;Heteronomia;;;;;;;;;x
+vassal_levies_law_1_desc;Vassal levies are controlled by their sovereign.;Les prélèvements vassaux sont contrôlés par leur souverain.;Vasallenabgaben werden von ihrem Staat kontrolliert.;;Los gravámenes vasallos están controlados por su soberano.;;;;;;;;;x
